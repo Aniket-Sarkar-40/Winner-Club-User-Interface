@@ -1,0 +1,16 @@
+{
+  "founders": [
+    {
+      "name": "Aniket Sarkar",
+      "role": "Founder",
+      "url": "Images/f1.jpg",
+      "about": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error,"
+    },
+    {
+      "name": "Arko Provo Sen",
+      "role": "Co-founder",
+      "url": "Images/f1.jpg",
+      "about": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error,"
+    }
+  ]
+}
